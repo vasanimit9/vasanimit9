@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi
+## I'm Mit Vasani
 
-<!--
-**vasanimit9/vasanimit9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a web enthusiast. And a tech enthusiast. And an anime enthusiast. In short, an enthusiast. :laughing:
 
-Here are some ideas to get you started:
+- LinkedIn: [Mit Vasani](https://www.linkedin.com/in/mit-vasani-8321a2138/)
+- Mail: [vasanimit9@gmai.com](mailto:vasanimit9@gmail.com)
+- GitHub Pages: [vasanimit9.github.io](https://vasanimit9.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PS: I am a firm believer of the Zen of Python.
+
+<pre>
+  ____  ____     __     ____  
+ / /  \/  \ \   / /    / /\ \ 
+/ /| |\/| |\ \ / /    / /  \ \
+\ \| |  | | \ V /    / /   / /
+ \_\_|  |_|  \_/    /_/   /_/ 
+                              
+</pre>
