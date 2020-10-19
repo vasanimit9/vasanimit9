@@ -1,5 +1,5 @@
-## Hi
-### I'm Mit Vasani
+# Hi
+## I'm Mit Vasani
 
 I am a web enthusiast. And a tech enthusiast. And an anime enthusiast. In short, an enthusiast. :laughing:
 
