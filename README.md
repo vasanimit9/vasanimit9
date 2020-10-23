@@ -7,11 +7,11 @@ I am a web enthusiast. And a tech enthusiast. And an anime enthusiast. In short,
 - Mail: [vasanimit9@gmail.com](mailto:vasanimit9@gmail.com)
 - Portfolio-website: [vasanimit9.github.io/terminal-pwa](https://vasanimit9.github.io/terminal-pwa/)
 
-<pre>
+```
   ____  ____     __     ____  
  / /  \/  \ \   / /    / /\ \ 
 / /| |\/| |\ \ / /    / /  \ \
 \ \| |  | | \ V /    / /   / /
  \_\_|  |_|  \_/    /_/   /_/ 
                               
-</pre>
+```
